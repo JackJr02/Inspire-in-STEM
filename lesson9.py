@@ -12,6 +12,11 @@
 student = {"name":"Jack", "age":20, "grade": 'B+'}
 print (student)
 
+#Adding Key VAlus in Dictionaries
+student ["id"]=2222
+student ["hobby"]="Reading novels"
+print (student)
+
 #Starting with an Empty Dictionary
 student = {}
 

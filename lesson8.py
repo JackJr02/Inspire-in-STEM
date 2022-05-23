@@ -1,4 +1,10 @@
-#Loops
+#!/usr/bin/python
+#################
+#Loops: For Loop
+#Name:  Jack Jr
+#Date:  23/05/2022
+#################
+
 school = "Joy", "Hope", "Mercy"
 pupil = "_Mark", "_Samuel", "_James"
 
@@ -16,12 +22,7 @@ for school in school:
 
     print(f"Hello, my name is {pupil} and I school at {school}")
 
-#!/usr/bin/python
-#################
-#Loops: For Loop
-#Name:  Jack Jr
-#Date:  23/05/2022
-#################
+
 for number in range (0,9):
     print (number)
     print ("\t")
