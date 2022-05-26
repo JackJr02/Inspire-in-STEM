@@ -7,6 +7,37 @@
 #   Date: 23/05/2022
 #################
 
+#Dictionary is a collection of key valued pairs
+#Inside it is a key and value
+#Dictionary Syntax:['key':'value']
+#Curly braces {} are used 
+
+colors={'color':'red'}
+vehicle={'type':'toyota','plate number':'KYZ234'}
+print(colors)
+#We use the type() method to read the data type
+print (type(colors))
+#########
+#Printing vehicle type and plate number
+print(vehicle['type'],vehicle['plate number'])
+
+#Accessing values in a dictionary
+print (vehicle['type'])
+#########
+
+#Dictionary of a person
+person={'name':'Ada','age':'20','id_no':'39684550','phone_number':'0731678905'}
+print(person)
+person['gender']='female'
+print(type(person))
+del person['phone_number']
+print (person)
+##########
+
+#Looping over dictionaries
+for Key, value in person.items
+
+
 
 #Initializing dictionaries
 student = {"name":"Jack", "age":20, "grade": 'B+'}
