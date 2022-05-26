@@ -35,7 +35,8 @@ print (person)
 ##########
 
 #Looping over dictionaries
-for Key, value in person.items
+for key, value in person.items():
+    print(f"{key}:{value}")
 
 
 
