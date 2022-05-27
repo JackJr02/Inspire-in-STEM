@@ -38,6 +38,8 @@ print (person)
 for key, value in person.items():
     print(f"{key}:{value}")
 
+#Using Get to access the value in a Dictionary
+
 
 
 #Initializing dictionaries
