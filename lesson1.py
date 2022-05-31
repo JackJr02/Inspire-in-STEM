@@ -1,5 +1,6 @@
 print ('Hello World')
 #Python basics
+#Python reads code on a horizontal line
 #Python has no semi colon
 #Python uses tabs for identification
 #This is a comment

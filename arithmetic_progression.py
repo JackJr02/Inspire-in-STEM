@@ -1,5 +1,5 @@
 a=int (input("Enter the first number"))
-d=int (input("Enter number"))
+d=int (input("Enter difference number"))
 n=int (input("Enter number"))
 
 for i in range (a,n+1):
