@@ -47,3 +47,47 @@ def multiply_numbers(x,y):
 
 multiply_numbers(40,50)
 multiply_numbers(20,30)
+############
+
+#Using Default Parameters
+def print_name(name="Jack Jr"):
+    print(name)
+
+print_name("Yourself")
+
+#Return from a Function
+def get_sum(num1,num2):
+    sum_num=num1+num2
+    return sum_num
+print(get_sum(7,12))
+
+def get_square(num1,power):
+    squares=num1**power
+    return squares
+print(get_square(6,4))
+##########
+
+#
+def get_full_name(f_name,s_name):
+    full_name=f_name + " " + s_name
+print(get_full_name("Jack","Jr"))
+##########
+
+#Returning a Dictionary from a Function
+def create_full_name(first_name, second_name):
+    person=("'first':first_name,'second':second_name")
+    return person
+
+student=create_full_name('Jack','Jr')
+print (student)
+###########
+
+#Passing a List in a Function
+def greet_friends(names):
+    for name in names:
+        msg="Hello " + name.title()+ "!"
+        print(msg)
+friends=['Brook','Tevo','Farmacy','Bickey']
+greet_friends(friends)
+
+
