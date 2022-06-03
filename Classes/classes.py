@@ -3,14 +3,18 @@
 # Date:02/06/2022
 # Classes
 ######################
+#Classes should preferrably start with capital letters
 
-class person:
-    def _init_(self, _name, _age):
-             self.name= _name
-             self.age=_age
+class Person:
+    def __init__(self, _name, _age):
+         self.name= _name
+         self.age=_age
     def sayHi(self):
-        print('Hello, my name is' + str(self.name),'and I am' + str(self.age), 'years old')
-person1=person("Bob",str(16))
+        print('Hello, my name is ' + str(self.name),'and I am ' + str(self.age), 'years old')
+person1=Person('Bob',16)
 person1.sayHi()
+
+
+
 
     
