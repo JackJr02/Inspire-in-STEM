@@ -10,3 +10,4 @@ t opens in text mode(default)
 b opens in binary mode
 + opens a file for reading and writing
 """""
+
