@@ -1,3 +1,11 @@
+#!/usr/bin/python
+#################
+#   Files
+#   Name: Jack Jr
+#   Date: 06/06/2022
+#################
+
+
 f=open("test.txt")
 f=open("test.txt",'w')
 f=open("img.bmp",'r+b')

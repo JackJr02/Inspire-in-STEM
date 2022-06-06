@@ -1,3 +1,10 @@
+#!/usr/bin/python
+#################
+#   File: main.py
+#   Name: Jack Jr
+#   Date: 06/06/2022
+#################
+
 import operations
 from students import student
 from teachers import teachers

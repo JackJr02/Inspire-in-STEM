@@ -1,3 +1,10 @@
+#!/usr/bin/python
+#################
+#   Strings
+#   Name: Jack Jr
+#   Date: 21/05/2022
+#################
+
 #Initializing strings
 #Multiline strings
 

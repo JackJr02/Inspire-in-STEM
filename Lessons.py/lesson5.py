@@ -1,3 +1,11 @@
+#!/usr/bin/python
+#################
+#   Strings
+#   Name: Jack Jr
+#   Date: 21/05/2022
+#################
+
+
 #String Methods
 #Methods are In built functions used to work on all the different data types
 #\n is used for new lines

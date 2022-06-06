@@ -1,3 +1,10 @@
+#!/usr/bin/python
+#################
+#   Integers
+#   Name: Jack Jr
+#   Date: 20/05/2022
+#################
+
 #Integers
 
 x= 100

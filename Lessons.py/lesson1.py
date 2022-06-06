@@ -1,3 +1,11 @@
+#!/usr/bin/python
+#################
+#   Intro to Python
+#   Name: Jack Jr
+#   Date: 17/05/2022
+#################
+
+
 print ('Hello World')
 #Python basics
 #Python reads code on a horizontal line

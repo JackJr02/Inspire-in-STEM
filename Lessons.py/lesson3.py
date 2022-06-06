@@ -1,3 +1,11 @@
+#!/usr/bin/python
+#################
+#   Inputs
+#   Name: Jack Jr
+#   Date: 19/05/2022
+#################
+
+
 #Getting user input
 
 f_name= input ("What is your first name?")

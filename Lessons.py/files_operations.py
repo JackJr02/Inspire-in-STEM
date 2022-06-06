@@ -1,4 +1,9 @@
-
+#!/usr/bin/python
+#################
+#   File_operations
+#   Name: Jack Jr
+#   Date: 06/06/2022
+#################
 
 #Opening a file
 #f=open("lesson1.txt",'x')

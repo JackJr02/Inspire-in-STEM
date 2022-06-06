@@ -1,7 +1,7 @@
 
 #!/usr/bin/python
 #################
-#   File: main.py
+#   File: students.py
 #   Name: Jack Jr
 #   Date: 06/06/2022
 #################
